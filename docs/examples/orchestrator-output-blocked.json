@@ -1,0 +1,18 @@
+{
+  "contentType": "image",
+  "contentId": "IMG-2045",
+  "classification": "Blocked",
+  "decision": "block",
+  "confidence": 98.7,
+  "reason": "Violence and explicit content detected",
+  "requiresHumanReview": false,
+  "policyViolated": [
+    "Violence",
+    "Explicit Content"
+  ],
+  "recommendedAction": "Reject Upload",
+  "auditNotes": [
+    "Computer Vision detected prohibited content.",
+    "Auto-block policy applied."
+  ]
+}

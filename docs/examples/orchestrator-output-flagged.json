@@ -1,0 +1,21 @@
+{
+  "contentType": "text",
+  "contentId": "CNT-1001",
+  "classification": "Flagged",
+  "decision": "human_review",
+  "confidence": 94.8,
+  "toxicityScore": 0.91,
+  "reason": "Potential hate speech detected",
+  "requiresHumanReview": true,
+  "policyViolated": [
+    "Hate Speech",
+    "Abusive Language"
+  ],
+  "recommendedAction": "Send to moderator",
+  "auditNotes": [
+    "Content analyzed using NLP model.",
+    "High toxicity score detected.",
+    "Confidence below auto-block threshold.",
+    "Case escalated to UiPath Action Center."
+  ]
+}

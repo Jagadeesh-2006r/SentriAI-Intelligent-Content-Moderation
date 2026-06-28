@@ -1,0 +1,16 @@
+{
+  "contentType": "text",
+  "contentId": "CNT-1002",
+  "classification": "Safe",
+  "decision": "publish",
+  "confidence": 99.2,
+  "toxicityScore": 0.02,
+  "reason": "No harmful content detected",
+  "requiresHumanReview": false,
+  "policyViolated": [],
+  "recommendedAction": "Publish",
+  "auditNotes": [
+    "Content passed all moderation checks.",
+    "Automatically approved by AI."
+  ]
+}
